@@ -1,0 +1,8 @@
+c:\users\rabbit\documents\visual studio 2015\Projects\victoria\victoria\bin\Debug\victoria.exe
+c:\users\rabbit\documents\visual studio 2015\Projects\victoria\victoria\bin\Debug\victoria.pdb
+c:\users\rabbit\documents\visual studio 2015\Projects\victoria\victoria\obj\Debug\victoria.csprojResolveAssemblyReference.cache
+c:\users\rabbit\documents\visual studio 2015\Projects\victoria\victoria\obj\Debug\victoria.Form1.resources
+c:\users\rabbit\documents\visual studio 2015\Projects\victoria\victoria\obj\Debug\victoria.Properties.Resources.resources
+c:\users\rabbit\documents\visual studio 2015\Projects\victoria\victoria\obj\Debug\victoria.csproj.GenerateResource.Cache
+c:\users\rabbit\documents\visual studio 2015\Projects\victoria\victoria\obj\Debug\victoria.exe
+c:\users\rabbit\documents\visual studio 2015\Projects\victoria\victoria\obj\Debug\victoria.pdb
